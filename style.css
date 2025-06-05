@@ -55,7 +55,7 @@
         margin: 100px auto 120px auto;
         border: 2px solid #872bff10;
         padding: 20px 30px;
-        background-image: url(../images/hero-bg.png);
+        background-image: url("../images/hero-bg.png");
         display: flex;
         justify-content: space-between;
         align-items: center;
